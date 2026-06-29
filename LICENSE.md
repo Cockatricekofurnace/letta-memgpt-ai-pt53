@@ -1,4 +1,4 @@
-# 
+# Exclusivo Letta (MemGPT) predefinições. Com monitoramento de modelos e web scraping — otimizado para máximo desempenho e eficiência.
 
 
 
